@@ -1,5 +1,5 @@
 # Time-Tracker
-Base Portal  using PHP Codeigniter
+Web Applciation using PHP Codeigniter
 
 1. Department Management
 2. User management
